@@ -1,0 +1,24 @@
+[
+    {
+        "AccessKey": "XXXXXXXX",
+        "AccessSecret": "XXXXXXXX",
+        "DBClusterId": "XXXXXXXX",
+        "DBClusterIPArrayName": "XXXXXXXX",
+        "name":"项目1"
+    },
+    {
+        "AccessKey": "XXXXXXXX",
+        "AccessSecret": "XXXXXXXX",
+        "DBClusterId": "XXXXXXXX",
+        "DBClusterIPArrayName": "XXXXXXXX",
+        "name":"项目2"
+    },
+    {
+        "AccessKey": "XXXXXXXX",
+        "AccessSecret": "XXXXXXXX",
+        "DBClusterId": "XXXXXXXX",
+        "DBClusterIPArrayName": "XXXXXXXX",
+        "name":"项目3"
+    }
+
+]
